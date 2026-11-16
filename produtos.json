@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -173,6 +172,8 @@
     "nome": "Kit de Cozinha Infantil com Comidinhas, Frutas e Mercadinho",
     "link": "https://vt.tiktok.com/ZS9fWC968v2Vg-ErDs8/",
     "categoria": "Brinquedos",
-    "imagens": []
+    "imagens": [
+      "./imagens/produto-25.png"
+    ]
   }
 ]
