@@ -1,0 +1,1 @@
+MP Kids — Protótipo de catálogo\nAbra index.html no navegador.\n23 produtos selecionados. 21 links de compra disponíveis; faltam os links dos produtos 1 e 2.\nFotos definitivas ainda pendentes; não há imagens de referência tratadas como fotos oficiais.\nPara publicar na internet, hospede estes arquivos em um serviço de hospedagem estática.\n
