@@ -1,15 +1,16 @@
+
 [
   {
     "id": 1,
     "nome": "Conjunto Chicago infantil",
-    "link": "",
+    "link": "https://vt.tiktok.com/ZS9fW2w44vPep-irJir/",
     "categoria": "Roupas",
     "imagens": []
   },
   {
     "id": 2,
     "nome": "Conjunto minimalista de verão",
-    "link": "",
+    "link": "https://vt.tiktok.com/ZS9fWjdjLSkcd-XGoYC/",
     "categoria": "Roupas",
     "imagens": []
   },
@@ -157,6 +158,13 @@
     "id": 23,
     "nome": "Motoca de equilíbrio infantil",
     "link": "https://vt.tiktok.com/ZS9fWDEGcR9aE-waMzo/",
+    "categoria": "Brinquedos",
+    "imagens": []
+  },
+  {
+    "id": 24,
+    "nome": "Microfone de karaokê infantil Bluetooth",
+    "link": "https://vt.tiktok.com/ZS9fWx6rBsFHG-ItEVE/",
     "categoria": "Brinquedos",
     "imagens": []
   }
